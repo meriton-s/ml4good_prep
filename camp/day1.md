@@ -4,7 +4,7 @@ this note contains
 - reflection on them
 - plans on next steps
 
-materials of the day^
+materials of the day
 - [IT25] Shared Folder
 https://drive.google.com/drive/u/0/folders/1t42HrmWydDewJpwbrG3RgoitZZrg83ay
 - [IT25] Shared Notes
