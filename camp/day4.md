@@ -81,7 +81,22 @@ Dev Interp tries to build a chronology of the network's development. If phase tr
 - then the researcher gets "shooting points" for a training time-lapse. This simplifies the analysis of the internal logic of the model and gives a chance to intervene before unwanted behavior is born.
 
 ---
+https://docs.google.com/presentation/d/1gPwNiJ2cy5ZnonRmn1cZH9GcGXtgVsyw_2LZLHrv30Q/edit?slide=id.g35ea29cd0c1_1_82#slide=id.g35ea29cd0c1_1_82
 
+
+Dev interp: Towards Developmental Interpretability — LessWrong 
+https://www.lesswrong.com/posts/TjaeCWvLZtEDAS5Ex/towards-developmental-interpretability
+
+
+Site : devinterp.com
+SLT : lesswrong.com/tag/singular-learning-theory
+Last review : manifund.org/projects/next-steps-in-developmental-interpretability
+Neural networks generalize because of this one weird trick - LessWrong
+https://www.lesswrong.com/posts/fovfuFdpuEwQzJu2w/neural-networks-generalize-because-of-this-one-weird-trick
+Distilling Singular Learning Theory - LessWrong
+https://www.lesswrong.com/s/czrXjvCLsqGepybHC
+Project Ideas 
+https://timaeus.co/projects
 
 ## Towards Developmental Interpretability
 by Jesse Hoogland, Alexander Gietelink Oldenziel, Daniel Murfet, Stan van Wingerden
