@@ -10,6 +10,9 @@ https://forum.effectivealtruism.org/topics/theory-of-change
 
 ## video
 - watch youtube about alphaEvolve
+- https://arena-chapter3-llm-evals.streamlit.app/
+
+https://docs.google.com/presentation/d/1zDlr4dxmmC642383OPRsm2a7tOhrA5oOPyndC5CDn64/edit?slide=id.g35f19ef10d6_34_6#slide=id.g35f19ef10d6_34_6
 
 # to desing
 ## evals 
